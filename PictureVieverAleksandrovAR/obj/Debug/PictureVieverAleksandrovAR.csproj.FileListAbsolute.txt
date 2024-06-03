@@ -1,0 +1,10 @@
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\bin\Debug\PictureVieverAleksandrovAR.exe.config
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\bin\Debug\PictureVieverAleksandrovAR.exe
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\bin\Debug\PictureVieverAleksandrovAR.pdb
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\obj\Debug\PictureVieverAleksandrovAR.Form1.resources
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\obj\Debug\PictureVieverAleksandrovAR.Properties.Resources.resources
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\obj\Debug\PictureVieverAleksandrovAR.csproj.GenerateResource.cache
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\obj\Debug\PictureVieverAleksandrovAR.csproj.CoreCompileInputs.cache
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\obj\Debug\PictureVieverAleksandrovAR.exe
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\obj\Debug\PictureVieverAleksandrovAR.pdb
+C:\Users\29184088\Desktop\PictureVieverAleksandrovAR\obj\Debug\PictureVieverAleksandrovAR.csproj.AssemblyReference.cache
